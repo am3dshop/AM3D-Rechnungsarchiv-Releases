@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "stable": {
+    "version": "0.34.1",
+    "build": 88,
+    "engine_version": "2.4.60",
+    "download_url": "https://github.com/am3dshop/AM3D-Rechnungsarchiv-Releases/releases/download/v0.34.1/AM3D_Rechnungsarchiv_0.34.1.dmg",
+    "sha256": "eabe51fbdb0d697ce490b3f7244f4db34c921be6f81282476f6e4d03d4682fc9",
+    "minimum_macos": "14.0",
+    "notes": [
+      "Integrierter GitHub-Updater",
+      "Feste Update-Adresse ohne Benutzereingabe",
+      "Native-App und Engine werden gemeinsam aktualisiert"
+    ]
+  },
+  "beta": null
+}
